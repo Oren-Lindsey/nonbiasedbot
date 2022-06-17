@@ -1,0 +1,28 @@
+{
+  "name": "nonbiasedbot",
+  "version": "1.0.0",
+  "description": "@nonbiasedbot on wasteof.money",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oren-lindsey/nonbiasedbot.git"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "oren lindsey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oren-lindsey/nonbiasedbot/issues"
+  },
+  "homepage": "https://github.com/oren-lindsey/nonbiasedbot#readme",
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "wasteof-client": "^3.0.0-beta.2"
+  }
+}
